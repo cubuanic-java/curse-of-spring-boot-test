@@ -1,5 +1,10 @@
 # Demo for Spring Boot Curse presentation
 
+See presentations on Youtube:
+
+* https://www.youtube.com/watch?v=uiEnOT2oYnI
+* https://www.youtube.com/watch?v=uc-cfX-5wQA
+
 ## How to run
 
 ```bash
